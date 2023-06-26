@@ -13,10 +13,5 @@ https://vidmails.com/v/M9TUOiK6Wh
 https://drive.google.com/drive/folders/1qEUm4CQvCGfDfvC_SQTwl9GW3QC85gDM?usp=sharing
 ## Screenshot
 ## (Question Part)
-![Q-1.PNG](..%2F..%2F..%2FUsers%2Fuser%2FPictures%2FQ-1.PNG)
 
 ## (Answer Part)
-![A-1.PNG](..%2F..%2F..%2FUsers%2Fuser%2FPictures%2FA-1.PNG)
-![A-2.PNG](..%2F..%2F..%2FUsers%2Fuser%2FPictures%2FA-2.PNG)
-![A-3.PNG](..%2F..%2F..%2FUsers%2Fuser%2FPictures%2FA-3.PNG)
-![A-5.PNG](..%2F..%2F..%2FUsers%2Fuser%2FPictures%2FA-5.PNG)
