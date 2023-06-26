@@ -94,7 +94,7 @@ public class QuizProgram {
                         JSONArray jsonArray = (JSONArray) obj;
 
                         int marks = 0;
-                        for (int i = 0; i < 2; i++) {
+                        for (int i = 0; i < 10; i++) {
 
                             int input = new Random().nextInt(jsonArray.size());
                             JSONObject quesObj = (JSONObject) jsonArray.get(input);
@@ -115,10 +115,10 @@ public class QuizProgram {
                             String answer = sc.nextLine();
 //                     String correctAnswer = (String) quesObj.get("Correct:");
                             if (answer.contains(correct)) {
-                                System.out.println("Correct!");
+                                //System.out.println("Correct!");
                                 marks++;
                             } else {
-                                System.out.println("Not correct!");
+                                //System.out.println("Not correct!");
                             }
                         }
 
