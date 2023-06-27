@@ -16,6 +16,8 @@ public class QuizProgram {
 
         JSONParser parser=new JSONParser();
         JSONArray loginArray = (JSONArray) parser.parse(new FileReader(LfileName));
+
+
         JSONObject adminObj = (JSONObject) loginArray.get(0);
         JSONObject studentObj = (JSONObject) loginArray.get(1);
        // System.out.println(adminObj);
@@ -28,9 +30,10 @@ public class QuizProgram {
         Scanner sc = new Scanner(System.in);
 
         System.out.println("Enter your username: ");
-        String name = sc.nextLine();
+        String name = sc.next();
         System.out.println("Enter password: ");
-        String pass = sc.nextLine();
+        String pass = sc.next();
+
 
             if (name.equals(adminObjString)) {
 
@@ -115,10 +118,10 @@ public class QuizProgram {
                             String answer = sc.nextLine();
 //                     String correctAnswer = (String) quesObj.get("Correct:");
                             if (answer.contains(correct)) {
-                                System.out.println("Correct!");
+                                //System.out.println("Correct!");
                                 marks++;
                             } else {
-                                System.out.println("Not correct!");
+                                //System.out.println("Not correct!");
                             }
                         }
 
