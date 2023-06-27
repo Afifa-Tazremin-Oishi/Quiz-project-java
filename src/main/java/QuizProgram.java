@@ -30,9 +30,9 @@ public class QuizProgram {
         Scanner sc = new Scanner(System.in);
 
         System.out.println("Enter your username: ");
-        String name = sc.next();
+        String name = sc.nextLine();
         System.out.println("Enter password: ");
-        String pass = sc.next();
+        String pass = sc.nextLine();
 
 
             if (name.equals(adminObjString)) {
