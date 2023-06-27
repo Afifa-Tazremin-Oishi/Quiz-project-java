@@ -1,12 +1,17 @@
 [
   {
-    "username": "admin",
     "password": "1234",
-    "role": "admin"
+    "role": "admin",
+    "username": "admin"
   },
   {
-    "username": "oishi",
     "password": "1234",
-    "role": "student"
+    "role": "student",
+    "username": "oishi"
+  },
+  {
+    "password": "1234",
+    "role": "student",
+    "username": "orchi"
   }
 ]

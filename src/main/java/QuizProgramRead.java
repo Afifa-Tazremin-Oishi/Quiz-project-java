@@ -8,7 +8,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.*;
 
-public class QuizProgram {
+public class QuizProgramRead {
     public static void main(String[] args) throws IOException, ParseException {
         char ch = 's';
         String QfileName = "./src/main/resources/QuestionList.json";
@@ -115,10 +115,10 @@ public class QuizProgram {
                             String answer = sc.nextLine();
 //                     String correctAnswer = (String) quesObj.get("Correct:");
                             if (answer.contains(correct)) {
-                                //System.out.println("Correct!");
+                                System.out.println("Correct!");
                                 marks++;
                             } else {
-                                //System.out.println("Not correct!");
+                                System.out.println("Not correct!");
                             }
                         }
 
