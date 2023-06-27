@@ -13,9 +13,9 @@ https://vidmails.com/v/M9TUOiK6Wh
 https://drive.google.com/drive/folders/1qEUm4CQvCGfDfvC_SQTwl9GW3QC85gDM?usp=sharing
 ## Screenshot
 ## (Question Part)
-![Q-1.PNG](..%2F..%2F..%2FUsers%2Fuser%2FPictures%2FQ-1.PNG)
+![Q-1](https://github.com/Afifa-Tazremin-Oishi/Quiz-project-java/assets/84584193/77f52be2-90b7-4b08-bbd8-a98809540a31)
 ## (Answer Part)
-![A-1.PNG](..%2F..%2F..%2FUsers%2Fuser%2FPictures%2FA-1.PNG)
-![A-2.PNG](..%2F..%2F..%2FUsers%2Fuser%2FPictures%2FA-2.PNG)
-![A-3.PNG](..%2F..%2F..%2FUsers%2Fuser%2FPictures%2FA-3.PNG)
-![A-5.PNG](..%2F..%2F..%2FUsers%2Fuser%2FPictures%2FA-5.PNG)
+![A-1](https://github.com/Afifa-Tazremin-Oishi/Quiz-project-java/assets/84584193/82621f7f-e562-4cc3-bf69-9ad24168593c)
+![A-2](https://github.com/Afifa-Tazremin-Oishi/Quiz-project-java/assets/84584193/1a547634-563b-4735-be05-3bab14b42164)
+![A-3](https://github.com/Afifa-Tazremin-Oishi/Quiz-project-java/assets/84584193/e7dd980f-bcbd-4641-b3aa-982b8ddf9434)
+![A-5](https://github.com/Afifa-Tazremin-Oishi/Quiz-project-java/assets/84584193/dfd780f8-b75a-4379-88bb-08d33622e4c4)
