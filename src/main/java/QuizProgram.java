@@ -8,7 +8,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.*;
 
-public class QuizProgramRead {
+public class QuizProgram {
     public static void main(String[] args) throws IOException, ParseException {
         char ch = 's';
         String QfileName = "./src/main/resources/QuestionList.json";
